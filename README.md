@@ -51,5 +51,5 @@ To provide a comprehensive, interactive dashboard for analyzing EV sales pattern
 
 *(Add screenshots here of your dashboard if available)*
 
-## 🔗 Repository Structure
+
 
